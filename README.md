@@ -1,1 +1,1 @@
-# dj-2024-07-simpleauth
+# dj202407_simpleauth
