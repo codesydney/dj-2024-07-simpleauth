@@ -1,0 +1,1 @@
+# dj-2024-07-simpleauth
